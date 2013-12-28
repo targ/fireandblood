@@ -4,7 +4,7 @@
   <title><![CDATA[Fire & Blood]]></title>
   <link href="http://targ.github.io/fireandblood/atom.xml" rel="self"/>
   <link href="http://targ.github.io/fireandblood/"/>
-  <updated>2013-12-28T16:48:47+01:00</updated>
+  <updated>2013-12-28T16:51:51+01:00</updated>
   <id>http://targ.github.io/fireandblood/</id>
   <author>
     <name><![CDATA[Targ]]></name>
@@ -18,15 +18,17 @@
     <link href="http://targ.github.io/fireandblood/blog/2013/12/28/bienvenue/"/>
     <updated>2013-12-28T16:41:54+01:00</updated>
     <id>http://targ.github.io/fireandblood/blog/2013/12/28/bienvenue</id>
-    <content type="html"><![CDATA[<p>OH ! VOus êtes là ?
+    <content type="html"><![CDATA[<p>OH ! Vous êtes là ? <br/>
 Soyez le bienvenue, je n&#8217;attendais pas votre visite tôt.</p>
 
-<p>Bienvenue donc sur <em>Fire &amp; Blood</em>, j&#8217;ai créé ce site pour plusieurs raisons. D&#8217;abord pouyr participer au challenge <em>Les Écrinautes</em>. J&#8217;ai vraiment envie de me remettre à l&#8217;écriture, et ce challenge me semble être une bonne manière de le faire.
-Mais je vais aussi vous parler de tout ce qui m&#8217;intéresse : attendez vous donc à trouver aussi des articles sur les maths, l&#8217;informatique, le cinéma, la musique et les livres.
-Enfin, je vais peut-être expérimenter des choses avec de l&#8217;audio ou de la vidéo, qui vivra verra.</p>
+<p>Bienvenue donc sur <em>Fire &amp; Blood</em>, j&#8217;ai créé ce site pour plusieurs raisons. D&#8217;abord pouyr participer au challenge <em>Les Écrinautes</em>. J&#8217;ai vraiment envie de me remettre à l&#8217;écriture, et ce challenge me semble être une bonne manière de le faire.</p>
 
-<p>Le programme semble donc plutôt chargé.
-Bonne visite.
+<p>Mais je vais aussi vous parler de tout ce qui m&#8217;intéresse : attendez vous donc à trouver aussi des articles sur les maths, l&#8217;informatique, le cinéma, la musique et les livres.</p>
+
+<p>Enfin, je vais peut-être expérimenter des choses avec de l&#8217;audio ou de la vidéo, qui vivra verra.</p>
+
+<p>Le programme semble donc plutôt chargé.<br/>
+Bonne visite. <br/>
 Targ.</p>
 ]]></content>
   </entry>
