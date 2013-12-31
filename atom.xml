@@ -4,7 +4,7 @@
   <title><![CDATA[Fire & Blood]]></title>
   <link href="http://targ.github.io/fireandblood/atom.xml" rel="self"/>
   <link href="http://targ.github.io/fireandblood/"/>
-  <updated>2013-12-31T01:29:36+01:00</updated>
+  <updated>2013-12-31T01:33:19+01:00</updated>
   <id>http://targ.github.io/fireandblood/</id>
   <author>
     <name><![CDATA[Targ]]></name>
@@ -98,11 +98,22 @@ C&#8217;est toutefois un film à voir absolument si, comme moi, vous aimez les m
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Premier Post]]></title>
-    <link href="http://targ.github.io/fireandblood/blog/2013/12/28/premier-post/"/>
-    <updated>2013-12-28T14:31:03+01:00</updated>
-    <id>http://targ.github.io/fireandblood/blog/2013/12/28/premier-post</id>
-    <content type="html"><![CDATA[<p>Bienvenue sur ce site !!</p>
+    <title type="html"><![CDATA[Bienvenue]]></title>
+    <link href="http://targ.github.io/fireandblood/blog/2013/12/28/bienvenue/"/>
+    <updated>2013-12-28T00:00:00+01:00</updated>
+    <id>http://targ.github.io/fireandblood/blog/2013/12/28/bienvenue</id>
+    <content type="html"><![CDATA[<p>Oh ! Vous êtes déjà là ?
+Soyez le bienvenue, je n’attendais pas votre visite tôt.</p>
+
+<p>Bienvenue donc sur <em>Fire &amp; Blood</em>, j’ai créé ce site pour plusieurs raisons. D’abord pour participer au challenge <em>Les Écrinautes</em>. J’ai vraiment envie de me remettre à l’écriture, et ce challenge me semble être une bonne manière de le faire.</p>
+
+<p>Mais je vais aussi vous parler de tout ce qui m’intéresse : attendez vous donc à trouver aussi des articles sur les maths, l’informatique, le cinéma, la musique et les livres.</p>
+
+<p>Enfin, je vais peut-être expérimenter des choses avec de l’audio ou de la vidéo, qui vivra verra.</p>
+
+<p>Le programme semble donc plutôt chargé.
+Bonne visite.
+Targ.</p>
 ]]></content>
   </entry>
   
